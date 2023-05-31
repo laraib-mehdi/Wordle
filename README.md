@@ -1,3 +1,4 @@
-# Wordle
+# Wordle 🔠
  A terminal version for WORDLE!
-![IMG](terminal.png)
+ 
+<img src="terminal.png" alt="IMG" width="420" height="145">
